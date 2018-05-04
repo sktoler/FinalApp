@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:1:1-42:12
+MERGED from [com.jjoe64:graphview:4.2.1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/ff746e4a20cdb6631d8853ae4127889d/AndroidManifest.xml:2:1-14:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.6.7] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.6.7.aar/9482921db22a0dbce01f1deb8ccc5b4d/AndroidManifest.xml:2:1-4:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/f784008fa7a22d2ab195721fdca1697f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/e26928c642a34f66eb3387f761e4a519/AndroidManifest.xml:17:1-31:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:2:1-21:80
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/42c3feac8dbcd3185fbe2515b84387f0/AndroidManifest.xml:2:1-10:80
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.18.aar/a74e5d9e54e31c86089b49bc6651fb27/AndroidManifest.xml:2:1-4:80
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/74b47158bfb16936581de5fc84aa38b8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/65e81caeec8aa072049c5c6a1e3437e6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/2648332e95a54000240decd5aa939db4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/3cdb8a19d7c079060e6a8a7644fd8816/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/4c86c2102779f49d292510b152958d0a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/22f8325c474e361531e1ee6bafc49183/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/d169d143d82afbbb16795d3716ea7297/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:1:1-42:12
+INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:1:1-42:12
+	package
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:2:5-51
+	android:versionName
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml
+		INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml
+		INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:6:5-8:41
+INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:6:5-8:41
+INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:6:5-8:41
+MERGED from [com.jjoe64:graphview:4.2.1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/ff746e4a20cdb6631d8853ae4127889d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/ff746e4a20cdb6631d8853ae4127889d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/f784008fa7a22d2ab195721fdca1697f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/f784008fa7a22d2ab195721fdca1697f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/e26928c642a34f66eb3387f761e4a519/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/e26928c642a34f66eb3387f761e4a519/AndroidManifest.xml:21:5-23:54
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:21:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:21:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/42c3feac8dbcd3185fbe2515b84387f0/AndroidManifest.xml:10:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/42c3feac8dbcd3185fbe2515b84387f0/AndroidManifest.xml:10:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.18.aar/a74e5d9e54e31c86089b49bc6651fb27/AndroidManifest.xml:4:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.18.aar/a74e5d9e54e31c86089b49bc6651fb27/AndroidManifest.xml:4:1-69
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/74b47158bfb16936581de5fc84aa38b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/74b47158bfb16936581de5fc84aa38b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/65e81caeec8aa072049c5c6a1e3437e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/65e81caeec8aa072049c5c6a1e3437e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/2648332e95a54000240decd5aa939db4/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/2648332e95a54000240decd5aa939db4/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/3cdb8a19d7c079060e6a8a7644fd8816/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/3cdb8a19d7c079060e6a8a7644fd8816/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/4c86c2102779f49d292510b152958d0a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/4c86c2102779f49d292510b152958d0a/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/22f8325c474e361531e1ee6bafc49183/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/22f8325c474e361531e1ee6bafc49183/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/d169d143d82afbbb16795d3716ea7297/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/d169d143d82afbbb16795d3716ea7297/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:6:5-8:41
+INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:6:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/f784008fa7a22d2ab195721fdca1697f/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:8:9-38
+		INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml
+		INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:7:9-35
+		INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml
+		INJECTED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:10:5-67
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/42c3feac8dbcd3185fbe2515b84387f0/AndroidManifest.xml:4:5-66
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/42c3feac8dbcd3185fbe2515b84387f0/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:11:5-79
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/42c3feac8dbcd3185fbe2515b84387f0/AndroidManifest.xml:5:5-78
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/42c3feac8dbcd3185fbe2515b84387f0/AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:15:22-78
+application
+ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:17:5-40:19
+MERGED from [com.jjoe64:graphview:4.2.1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/ff746e4a20cdb6631d8853ae4127889d/AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/graphview-4.2.1.aar/ff746e4a20cdb6631d8853ae4127889d/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/f784008fa7a22d2ab195721fdca1697f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/f784008fa7a22d2ab195721fdca1697f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/e26928c642a34f66eb3387f761e4a519/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/e26928c642a34f66eb3387f761e4a519/AndroidManifest.xml:29:5-20
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:8:6-20:20
+MERGED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:8:6-20:20
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/42c3feac8dbcd3185fbe2515b84387f0/AndroidManifest.xml:7:5-9:19
+MERGED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/42c3feac8dbcd3185fbe2515b84387f0/AndroidManifest.xml:7:5-9:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/74b47158bfb16936581de5fc84aa38b8/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/74b47158bfb16936581de5fc84aa38b8/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/65e81caeec8aa072049c5c6a1e3437e6/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/65e81caeec8aa072049c5c6a1e3437e6/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/2648332e95a54000240decd5aa939db4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/2648332e95a54000240decd5aa939db4/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/3cdb8a19d7c079060e6a8a7644fd8816/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/3cdb8a19d7c079060e6a8a7644fd8816/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/4c86c2102779f49d292510b152958d0a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/4c86c2102779f49d292510b152958d0a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/22f8325c474e361531e1ee6bafc49183/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/22f8325c474e361531e1ee6bafc49183/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/d169d143d82afbbb16795d3716ea7297/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/d169d143d82afbbb16795d3716ea7297/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:22:9-40
+activity#com.amazonaws.demo.s3transferutility.MainActivity
+ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:23:9-85
+	android:name
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:23:19-83
+activity#com.amazonaws.demo.s3transferutility.AuthenticatorActivity
+ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:25:9-30:20
+	android:name
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:25:19-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:28:27-74
+activity#com.amazonaws.demo.s3transferutility.DownloadSelectionActivity
+ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:32:9-34:67
+	android:label
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:34:13-64
+	android:name
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:33:13-90
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:36:9-38:38
+	android:enabled
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:38:13-35
+	android:name
+		ADDED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:37:13-93
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/sarahtoler/Documents/AndroidStudioProjects/FinalApp/AndroidManifest.xml:1:1-42:12 reason: com.amazonaws.mobile.client has a targetSdkVersion < 4
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/f784008fa7a22d2ab195721fdca1697f/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/e26928c642a34f66eb3387f761e4a519/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/e26928c642a34f66eb3387f761e4a519/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/74b47158bfb16936581de5fc84aa38b8/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/74b47158bfb16936581de5fc84aa38b8/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/65e81caeec8aa072049c5c6a1e3437e6/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/65e81caeec8aa072049c5c6a1e3437e6/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/2648332e95a54000240decd5aa939db4/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/2648332e95a54000240decd5aa939db4/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/3cdb8a19d7c079060e6a8a7644fd8816/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/3cdb8a19d7c079060e6a8a7644fd8816/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/4c86c2102779f49d292510b152958d0a/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/4c86c2102779f49d292510b152958d0a/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/22f8325c474e361531e1ee6bafc49183/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/22f8325c474e361531e1ee6bafc49183/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/d169d143d82afbbb16795d3716ea7297/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/d169d143d82afbbb16795d3716ea7297/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/f784008fa7a22d2ab195721fdca1697f/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/f784008fa7a22d2ab195721fdca1697f/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:6:22-73
+activity#com.amazonaws.mobile.auth.userpools.ForgotPasswordActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:9:10-10:21
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:9:220-256
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:9:91-145
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:9:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:9:146-219
+activity#com.amazonaws.mobile.auth.userpools.SignUpActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:12:10-13:21
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:12:204-240
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:12:91-137
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:12:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:12:138-203
+activity#com.amazonaws.mobile.auth.userpools.MFAActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:15:10-16:21
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:15:197-233
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:15:91-133
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:15:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:15:134-196
+activity#com.amazonaws.mobile.auth.userpools.SignUpConfirmActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:18:10-19:21
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:18:219-255
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:18:91-145
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:18:20-90
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-userpools:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-userpools-2.6.18.aar/28a6c38d7b8183da46f8ca4d60e3e4b0/AndroidManifest.xml:18:146-218
+activity#com.amazonaws.mobile.auth.ui.SignInActivity
+ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/42c3feac8dbcd3185fbe2515b84387f0/AndroidManifest.xml:8:9-234
+	android:screenOrientation
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/42c3feac8dbcd3185fbe2515b84387f0/AndroidManifest.xml:8:196-232
+	android:label
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/42c3feac8dbcd3185fbe2515b84387f0/AndroidManifest.xml:8:90-136
+	android:configChanges
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/42c3feac8dbcd3185fbe2515b84387f0/AndroidManifest.xml:8:19-89
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-auth-ui:2.6.18] /Users/sarahtoler/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-ui-2.6.18.aar/42c3feac8dbcd3185fbe2515b84387f0/AndroidManifest.xml:8:137-195
